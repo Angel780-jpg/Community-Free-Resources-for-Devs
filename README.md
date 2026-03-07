@@ -24,7 +24,7 @@ You can easily add new tags and new resources!
 
 # How to Contribute
 
-Option 1: Add a new resource (the easiest and most common way to start)
+Add a new resource (the easiest and most common way to start)
 
 1.-Click the Fork button (top right) — this creates your own copy of the project.  
 
